@@ -3,7 +3,7 @@
 I'm currently working as a Data & API Engineer at Goldman Sachs, dealing with vast amounts of daily financial data and always looking for new ways to process and distribute that data. In my spare time I'm interested in finding novel methods for visualising relationships in data to draw meaningful insights or interesting narratives.
 You can contact me and learn more about what I do at [LinkedIn](https://www.linkedin.com/in/amro-nagdy-453131b3/), and see how I solve a variety of problems at [LeetCode](https://leetcode.com/amronagdy/).
 
-You can check out the projects I've been working on below. The name of each project will take you to the project's repo. From there you can get a more detailed explanation about my motivation behind the project, as well as the tech stack powering it.
+You can check out the projects I've been working on below. The name of each project will take you to the project's repo. From there you can get a more detailed explanation about my motivation behind the project, the tech stack powering it, and if applicable a link to the web app itself.
 
 # 🎨 Projects
 
