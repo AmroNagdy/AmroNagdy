@@ -9,7 +9,6 @@ You can contact me and learn more about what I do at [<img src="https://github.c
 An interactive and educational tool for pricing several types of financial assets using well-known quantitative models.
 
 ## 🎭 IMDb Actor Network Visualiser [(Front-End)](https://github.com/AmroNagdy/imdb-actor-network-visualiser-front) [(Back-End)](https://github.com/AmroNagdy/imdb-actor-network-visualiser-back)
-![IMDb Actor Network Visualiser example](https://github.com/AmroNagdy/AmroNagdy/blob/master/ProjectExamples/IMDb%20Actor%20Network%20Visualiser%20Example.png?raw=true)
 A reactive data visualisation tool written in JavaScript and Python.
 
 ## 🎮 [Python Tetris](https://github.com/AmroNagdy/python-tetris)
