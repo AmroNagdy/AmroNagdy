@@ -7,11 +7,11 @@ You can check out the projects I've been working on below. The name of each proj
 
 # 🎨 Projects
 
-## 💸 [Price It](https://github.com/AmroNagdy/price-it) (Work in Progress)
+### 💸 [Price It](https://github.com/AmroNagdy/price-it) (Work in Progress)
 An interactive and educational web app for pricing several types of financial assets using well-known quantitative models.
 
-## 🎭 IMDb Actor Network Visualiser [(Front-End)](https://github.com/AmroNagdy/imdb-actor-network-visualiser-front) [(Back-End)](https://github.com/AmroNagdy/imdb-actor-network-visualiser-back)
+### 🎭 IMDb Actor Network Visualiser [(Front-End)](https://github.com/AmroNagdy/imdb-actor-network-visualiser-front) [(Back-End)](https://github.com/AmroNagdy/imdb-actor-network-visualiser-back)
 A dynamic data visualisation web app for graphing connections between actors by the movies they've featured in.
 
-## 🎮 [Python Tetris](https://github.com/AmroNagdy/python-tetris)
+### 🎮 [Python Tetris](https://github.com/AmroNagdy/python-tetris)
 A command-line implementation of Tetris written in Python.
